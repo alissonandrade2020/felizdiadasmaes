@@ -1,6 +1,9 @@
-# feliz dia das maes
+# Feliz dia das maes
 
-https://github.com/alissonandrade2020/feliz_dia_das_maes/blob/master/assets/felizdiadasmaes.png
+Cartão 
+<h1 align="center">
+    <img src="https://github.com/alissonandrade2020/feliz_dia_das_maes/blob/master/assets/felizdiadasmaes.png" width="650px" />
+</h1>
 
 ## Desenvolvimento
 
